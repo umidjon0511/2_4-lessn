@@ -1,0 +1,237 @@
+  @import url('https://fonts.googleapis.com/css2?family=Hind+Madurai:wght@600&family=Montserrat:ital,wght@0,700;1,700&family=Poppins:ital,wght@1,600&display=swap');
+  *{
+    margin: 0;
+    padding: 0;
+    box-shadow: none;
+    
+}
+.cantener{
+    margin: 0;
+    margin-left: 100px;
+    margin-right: 150px;
+    
+    
+}
+.jami{
+    background: #F2CEDA;
+}
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.nav_menu{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 50px;
+    color: #150101;
+    opacity: 0.6;
+}
+.ul>li .home{
+    color: #D23166;
+}
+.btn{
+    background: #D23166;
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+    left: 1205px;
+    top: 25px;
+    color: wheat;
+}
+.menu{
+    margin-top: 100px;
+    
+}
+.menu_img{
+    
+    background-image: url(./img/UaNIa1ewNn-removebg-preview\ 1.png);
+    removebg-preview.png);
+    transform: rotate(4.79deg);
+    margin-left: 500px;
+    margin-top: -300px;
+}
+.menu_item{
+    margin-left: 200px;
+}
+
+.menu_item>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.menu_item>h1{
+    color: #0F0101;
+    
+    opacity: 0.9;
+    font-family: 'Fredoka One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50.33px;
+    line-height: 120.5%;
+}
+.menu_item>button{
+    background: #D23166;
+    border-radius: 5px;
+    color: wheat;
+    position: absolute;
+    width: 165px;
+    height: 49px;
+    
+    top: 450px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 70px;
+    margin-top: 100px;
+}
+.main_logo>img{
+    margin-left: 50px;
+}
+.main_logo>h3{
+    margin-top: 20px;
+}
+.main_logo>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.main_img>img{
+    margin-left: 50px;
+}
+.main_img>h3{
+    margin-top: 20px;
+}
+.main_img>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.main_cash>img{
+    margin-left: 50px;
+}
+.main_cash>h3{
+    margin-top: 20px;
+}
+.main_cash>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.main_fast>img{
+    margin-left: 50px;
+}
+.main_fast>h3{
+    margin-top: 20px;
+}
+.main_fast>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.brown{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #F8EDF0;
+    height: 400px;
+    
+}
+.brown_item>p{
+    margin-top: 20px;
+    opacity: 0.6;
+}
+.brown_item>button{
+    width: 145px;
+    height: 40.13px;
+    left: 253px;
+    margin-top: 20px;
+    color: wheat;
+    
+    background: #D64374;
+    border-radius: 5px;
+}
+.sentr{
+    margin-top: 80px;
+    margin-left: 500px;   
+}
+.ul{
+    margin-top: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   margin-left: 150px;
+   margin-right: 150px;
+   list-style: none;
+   opacity: 0.5;
+   color: #0F0101;
+
+}
+.ul_li{
+    line-height: 21px;
+ 
+}
+.dolor{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 30px;
+}
+.dolor_text>h3{
+   margin-top: 45px;
+   margin-left: 0px;
+}
+.dolor_text{
+    margin-left: 100px;
+}
+
+.dolor_text>p{
+    opacity: 0.7;
+    margin-top: 20px;
+}
+.dolor_text>h4{
+    margin-top: 20px;
+}
+.dolor_text{
+    margin-top: 10px;
+}
+.dolor_text>button{
+  
+    width: 145px;
+    height: 40.13px;
+    left: 253px;
+    margin-top: 20px;
+    color: wheat;
+    
+    background: #D64374;
+    border-radius: 5px;
+}
+.limon{
+    display: flex;
+    margin-top: 70px;
+    margin-left: 100px;
+}
+.limon_img{
+    margin-left: 100px;
+    margin-top: -50px;
+}
+.limon_item{
+    margin-top: 50px;
+}
+.limon_item>p{
+   margin-top: 20px; 
+   opacity: 0.6;
+
+}
+.limon_item>h4{
+    margin-top: 20px;
+}
+.limon_item>button{
+    width: 145px;
+    height: 40.13px;
+    left: 253px;
+    margin-top: 20px;
+    color: wheat;
+    
+    background: #D64374;
+    border-radius: 5px;
+}
